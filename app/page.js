@@ -7,7 +7,7 @@ export default function Home() {
       <ul className="list-disc pl-5 space-y-2">
         <li>
           <Link href="/week-2" className="text-blue-500 hover:underline">
-            Go to Week 2 Assignment
+            Week 2
           </Link>
         </li>
         <li>
@@ -33,6 +33,11 @@ export default function Home() {
         <li>
           <Link href="/week-7" className="text-blue-500 hover:underline">
             Week 7
+          </Link>
+        </li>
+        <li>
+          <Link href="/week-8" className="text-blue-500 hover:underline">
+            Week 8
           </Link>
         </li>
       </ul>
